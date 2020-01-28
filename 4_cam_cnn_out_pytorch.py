@@ -12,7 +12,7 @@ LR = 1e-3
 
 nb_classes=15
 
-MODEL_NAME = 'model_weight/model_15.pth'
+MODEL_NAME = 'model_15.pth'
 
 
 
